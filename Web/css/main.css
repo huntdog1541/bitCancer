@@ -12,3 +12,31 @@ body {
 
 .upload-pic {
 }
+
+#logging-in {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+45,28343b+100 */
+    background: #b5bdc8; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 45%, #28343b 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%,#828c95 45%,#28343b 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, #b5bdc8 0%,#828c95 45%,#28343b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: contain;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#logging-form {
+    text-align : center;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 75%;
+}
+
+#GET-name {
+    padding-right: 5px;
+}
+
+#GET-password {
+    padding-righ: 5px;
+}
