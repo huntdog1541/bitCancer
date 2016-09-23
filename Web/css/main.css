@@ -28,15 +28,20 @@ body {
 
 #logging-form {
     text-align : center;
-    margin-left: 25%;
-    margin-right:25%;
-    width: 75%;
+    margin-top: 15%;
+    margin-bottom: 25%
 }
 
 #GET-name {
-    padding-right: 5px;
+    padding-left: 15px;
 }
 
 #GET-password {
-    padding-righ: 5px;
+    padding-left: 15px;
+}
+
+#login-header {
+    text-align: center;
+    margin-top: 5%;
+    font-color: #112944;
 }
